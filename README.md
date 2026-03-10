@@ -1,2 +1,2 @@
 # .github
-Files for the @UHVDBe GitHub organisation
+Files for the @UHVDB GitHub organization
